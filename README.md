@@ -1,10 +1,14 @@
 # openai-bot-pascal-2023
 
+Scaricare il pdf per le informazioni essenziali del progetto
+
 Public link: [https://github.com/soluzionifutura/openai-bot-pascal-2023](https://github.com/soluzionifutura/openai-bot-pascal-2023)
 
 Public link: [http://bit.ly/bot-pascal](http://bit.ly/bot-pascal)
 
 Meet: [https://meet.google.com/ibd-tpfm-skw](https://meet.google.com/ibd-tpfm-skw)
+
+
 
 ## Setup
 

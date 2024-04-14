@@ -8,7 +8,7 @@ Public link: [http://bit.ly/bot-pascal](http://bit.ly/bot-pascal)
 
 Meet: [https://meet.google.com/ibd-tpfm-skw](https://meet.google.com/ibd-tpfm-skw)
 
-
+NB: per far funzionare il bot bisogna specificare i parametri nel sample.env, è importante non pubblicare online poi i parametri specificati (utilizzare .gitignore)
 
 ## Setup
 
